@@ -14,11 +14,14 @@ AngularJS-powered HTML5 Markdown editor.
 
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+Most Mailchimp campaigns include a [campaign link](https://mailchimp.com/help/add-a-campaign-page-link-to-your-email-campaign/) that allows subscribers to open the browser-based campaign page for your sent campaign, so they can still view the message if their email client has display problems. This also lets subscribers share your campaign with friends or on social media.
+
+Depending on the template you work with, your campaign link will display the following text in your campaign preheader, and sometimes in the footer.
+
+-   View this email in your browser
+-   Email not displaying correctly? View it in your browser
+
+If you don't want subscribers to share your campaign, you ca
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
