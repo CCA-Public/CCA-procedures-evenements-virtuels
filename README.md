@@ -24,7 +24,7 @@ Résumons les avantages et les inconvénients propres à chacun des différents 
 
 Avec le retour graduel des activités en personne, nous arrivons à un nouveau tournant : la possibilité d&#39;organiser des événements hybrides. Avec ce type d&#39;événement, soit les intervenants soit les membres du public, ou encore une partie de chacun d&#39;entre eux, se trouvent dans l&#39;espace physique, tandis que les autres participent à distance grâce à la technologie. Les leçons tirées de nos expériences d&#39;événements virtuels se mêlent aux anciennes pratiques d&#39;événements en personne ; pour obtenir un résultat satisfaisant, il faut cependant faire plus qu&#39;additionner les deux. Nous commençons tout juste à mettre en œuvre nos nouvelles stratégies d&#39;événements hybrides. Les différentes propositions d&#39;événements hybrides ci-dessous constituent des points de départ à l&#39;expérimentation et à l&#39;essai.
 
-20 février 2022
+
 
 ## **Formats d&#39;événements virtuels du CCA, classés par plateformes de diffusion et de distribution**
 
@@ -43,7 +43,7 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 |  | _Distribution_ | Utilisé pour distribuer de manière privée les vidéos du CCA et les œuvres de la collection audiovisuelle du CCA, par exemple à des chercheurs et à ce type d&#39;utilisateurs. |
 | **Soundcloud** | _Distribution seulement_ | Utilisé pour distribuer uniquement du contenu sonore. |
 
-
+![schema](https://www.cca.qc.ca/img/dgz0IG8xisKOf5BB34PF-CaF9NI=/1920x0/16318/15247/fr-schema.png)
 
 ## **Formats**
 
