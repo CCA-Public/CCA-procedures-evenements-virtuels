@@ -49,7 +49,7 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 
 #
 
-## Événement virtuel auquel le public participe activement
+### Événement virtuel auquel le public participe activement
 
 **Exemples**  : conférence de presse, atelier, réunion de l&#39;ensemble du personnel, conversation
  avec le commissaire
@@ -70,7 +70,7 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 
 #
 
-## Événement virtuel avec participation limitée du public
+### Événement virtuel avec participation limitée du public
 
 **Exemples**  : séminaire, conférence du commissaire, charrette des étudiants, atelier, lancement
  de livre
@@ -90,7 +90,7 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement, coordonnateur, public, ou coordonnateur administratif : coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré. Gère le processus de production du contenu de A à Z. |
 
-## Projection virtuelle avec des intervenants (segments en direct et préenregistrés)
+### Projection virtuelle avec des intervenants (segments en direct et préenregistrés)
 
 **Exemples**  : docudrame, projection et conversation
 
@@ -109,7 +109,7 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : gère le processus de production du contenu de A à Z. |
 
-## Événement hybride avec des intervenants virtuels, et un animateur et un public physiques
+### Événement hybride avec des intervenants virtuels, et un animateur et un public physiques
 
 Exemple : projection de film dans une salle suivie d&#39;une conversation
 
@@ -128,7 +128,7 @@ Exemple : projection de film dans une salle suivie d&#39;une conversation
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
-## Événement hybride avec quelques intervenants dans un espace physique et un public entièrement virtuel
+### Événement hybride avec quelques intervenants dans un espace physique et un public entièrement virtuel
 
 Exemple : table ronde dans une salle de spectacle sans public
 
@@ -147,7 +147,7 @@ Exemple : table ronde dans une salle de spectacle sans public
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
-## Événement hybride avec des intervenants et un public physiques, enregistré pour un public virtuel
+### Événement hybride avec des intervenants et un public physiques, enregistré pour un public virtuel
 
 Exemple : conférence dans une salle de spectacle
 
