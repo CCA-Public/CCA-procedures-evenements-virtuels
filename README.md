@@ -27,8 +27,7 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 
 20 février 2022
 
-## **Formats d&#39;événements virtuels du CCA, classés par plateformes de
- diffusion et de distribution**
+## **Formats d&#39;événements virtuels du CCA, classés par plateformes de diffusion et de distribution**
 
 | Plateforme | Utilisation |
 | --- | --- |
@@ -79,7 +78,7 @@ Utilisé pour distribuer uniquement du contenu sonore.
 
 #
 
-# Événement virtuel auquel le public participe activement
+## Événement virtuel auquel le public participe activement
 
 **Exemples**  : conférence de presse, atelier, réunion de l&#39;ensemble du personnel, conversation
  avec le commissaire
@@ -123,8 +122,7 @@ Utilisé pour distribuer uniquement du contenu sonore.
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement, coordonnateur, public, ou coordonnateur administratif : coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré. Gère le processus de production du contenu de A à Z. |
 
-## Projection virtuelle avec des intervenants (segments en
- direct et préenregistrés)
+## Projection virtuelle avec des intervenants (segments en direct et préenregistrés)
 
 **Exemples**  : docudrame, projection et conversation
 
@@ -143,8 +141,7 @@ Utilisé pour distribuer uniquement du contenu sonore.
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : gère le processus de production du contenu de A à Z. |
 
-## Événement hybride avec des intervenants virtuels, et un
- animateur et un public physiques
+## Événement hybride avec des intervenants virtuels, et un animateur et un public physiques
 
 Exemple : projection de film dans une salle suivie d&#39;une conversation
 
