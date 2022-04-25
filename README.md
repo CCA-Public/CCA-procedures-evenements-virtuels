@@ -1,195 +1,215 @@
-# CCA
-## _The Last Markdown Editor, Ever_
+Événements virtuels et hybrides du CCA
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[**Introduction** 2](#_Toc97553817)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[**Formats d&#39;événements virtuels du CCA,
+ classés par plateformes de diffusion et de distribution** 3](#_Toc97553818)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+[**Formats** 5](#_Toc97553819)
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+[Événement virtuel auquel le public participe activement 5](#_Toc97553820)
 
-## Features
+[Événement virtuel avec participation limitée du public 6](#_Toc97553821)
 
-Most Mailchimp campaigns include a [campaign link](https://mailchimp.com/help/add-a-campaign-page-link-to-your-email-campaign/) that allows subscribers to open the browser-based campaign page for your sent campaign, so they can still view the message if their email client has display problems. This also lets subscribers share your campaign with friends or on social media.
+[Projection virtuelle avec des intervenants (segments en direct et préenregistrés) 7](#_Toc97553822)
 
-Depending on the template you work with, your campaign link will display the following text in your campaign preheader, and sometimes in the footer.
+[Événement hybride avec des intervenants virtuels, et un animateur et un public physiques 8](#_Toc97553823)
 
--   View this email in your browser
--   Email not displaying correctly? View it in your browser
+[Événement hybride avec quelques intervenants
+ dans un espace physique et un public entièrement virtuel 9](#_Toc97553824)
 
-If you don't want subscribers to share your campaign, you ca
+[Événement hybride avec des intervenants et un public physiques,
+ enregistré pour un public virtuel 10](#_Toc97553825)
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+#
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+# **Introduction**
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+S&#39;il nous est arrivé avant la pandémie de diffuser en continu des événements en direct et d&#39;utiliser des systèmes de vidéoconférence, nos événements, par défaut, se tenaient en personne. La pandémie nous a forcés à repenser cette façon de faire ; l&#39;obligation de tenir des événements virtuels a créé à la fois de nouvelles possibilités et de nouveaux défis.
 
-## Tech
+Les événements virtuels nous ont permis d&#39;accueillir des intervenants que, pour diverses raisons, nous aurions eu du mal à faire venir sur place même sans les restrictions de voyage causées par la pandémie. La technologie nous a offert la possibilité de rassembler des personnes pour qu&#39;elles communiquent leurs idées, peu importe la distance et les différents fuseaux horaires. Cependant, des défis de production émergent avec la distance ; nous ne pouvons pas contrôler l&#39;environnement comme dans une salle de spectacle ou un espace physique de ce type.
 
-Dillinger uses a number of open source projects to work properly:
+Le présent document résume les solutions que nous utilisons pour produire des événements virtuels. Il détaille les éléments clés propres à chaque format, ainsi que l&#39;organisation interne et l&#39;équipe nécessaire. Nous avons essayé toutes les combinaisons possibles, avec plus ou moins de succès. Chaque événement nécessite un juste équilibre entre l&#39;immédiateté de l&#39;interaction en direct et la création d&#39;une vidéo de qualité. Les événements virtuels connaissent deux étapes de visionnement : la diffusion en continu en direct, et le visionnement sur demande, étalé dans le temps, qui exige du montage et du titrage et qui est destiné aux plateformes vidéo et aux médias sociaux.
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+Résumons les avantages et les inconvénients propres à chacun des différents formats abordés : les réunions par vidéoconférence permettent une participation active de tous les membres du public, mais ne sont viables qu&#39;avec un petit nombre d&#39;intervenants et un public réduit, et ne permettent pas de créer du contenu numérique visuellement attrayant et réutilisable. Les webinaires permettent un meilleur contrôle du contenu audiovisuel de l&#39;événement, et donc sa réutilisation ultérieure, mais limitent les interactions en direct aux échanges entre l&#39;animateur et les intervenants ; les questions du public doivent être transmises au moyen du clavardage. Enfin, la diffusion en direct sur les médias sociaux permet la tenue d&#39;événements sans inscription préalable, et est propice au contenu préenregistré, monté et de meilleure qualité ; elle limite néanmoins la participation du public à des échanges dans le clavardage avec un animateur invisible.
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+Avec le retour graduel des activités en personne, nous arrivons à un nouveau tournant : la possibilité d&#39;organiser des événements hybrides. Avec ce type d&#39;événement, soit les intervenants soit les membres du public, ou encore une partie de chacun d&#39;entre eux, se trouvent dans l&#39;espace physique, tandis que les autres participent à distance grâce à la technologie. Les leçons tirées de nos expériences d&#39;événements virtuels se mêlent aux anciennes pratiques d&#39;événements en personne ; pour obtenir un résultat satisfaisant, il faut cependant faire plus qu&#39;additionner les deux. Nous commençons tout juste à mettre en œuvre nos nouvelles stratégies d&#39;événements hybrides. Les différentes propositions d&#39;événements hybrides ci-dessous constituent des points de départ à l&#39;expérimentation et à l&#39;essai.
 
-## Installation
+20 février 2022
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+# **Formats d&#39;événements virtuels du CCA, classés par plateformes de
+ diffusion et de distribution**
 
-Install the dependencies and devDependencies and start the server.
+| Plateforme | Utilisation |
+| --- | --- |
+| **Site Web du CCA** | _Distribution_ | Les événements sont publicisés sur le site Web avec, au besoin, un lien pour s&#39;inscrire. On y trouve aussi les liens des événements passés enregistrés. |
+|
+**YouTube**
+ | _Diffusion_ |
+Projections virtuelles avec des intervenants (avec des segments en direct et préenregistrés). Clavardage.
+ |
+|
+ | _Distribution_ |
+Principale chaîne de distribution vidéo. Le public a accès aux fichiers vidéo soit directement sur YouTube soit sur le site du CCA, où les vidéos sont intégrées.
+ |
+| **Webinaires Zoom** | _Diffusion seulement_ |
+Événements virtuels avec participation limitée du public.
+ |
+| **Réunions Zoom** | _Diffusion seulement_ |
+Événements virtuels auxquels le public participe activement.
+ |
+| **Facebook Live** | _Diffusion_ |
+Projections virtuelles avec des intervenants (avec des segments en direct et préenregistrés).
+ |
+|
+ | _Distribution_ |
+On utilise Facebook pour promouvoir des événements virtuels. Les vidéos restent sur la plateforme, où elles peuvent être visionnées ultérieurement.
+ |
+| **Instagram** | _Diffusion_ |
+Ne peut pas être utilisé pour la transmission vidéo en direct.
+ |
+|
+ | _Distribution_ |
+La distribution vidéo est limitée aux courts extraits.
+ |
+| **Vimeo** | _Diffusion_ |
+N&#39;est pas une chaîne de diffusion en direct.
+ |
+|
+ | _Distribution_ |
+Utilisé pour distribuer de manière privée les vidéos du CCA et les œuvres de la collection audiovisuelle du CCA, par exemple à des chercheurs et à ce type d&#39;utilisateurs.
+ |
+| **Soundcloud** | _Distribution seulement_ |
+Utilisé pour distribuer uniquement du contenu sonore.
+ |
 
-```sh
-cd dillinger
-npm i
-node app
-```
+#
 
-For production environments...
+# **Formats**
 
-```sh
-npm install --production
-NODE_ENV=production node app
-```
+#
 
-## Plugins
+# Événement virtuel auquel le public participe activement
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+**Exemples**  : conférence de presse, atelier, réunion de l&#39;ensemble du personnel, conversation
+ avec le commissaire
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| **Participation du public** | Active et visible à l&#39;écran |
+| --- | --- |
+| **Plateforme** | Réunion Zoom |
+| **Inscription** | Optionnelle (fonction inscription de Zoom) |
+| **Options de personnalisation** | Limitées (logo du CCA) |
+| **Contenu vidéo** | Limité |
+| **Soutien technique** | Pas nécessaire |
+| **Diffusion en direct** | Non |
+| **Enregistrement** | Optionnel, par Zoom (personne responsable : coordonnateur, public) |
+| **Permissions** | Si l&#39;événement est enregistré, l&#39;animateur et les intervenants doivent donner leur consentement à être enregistrés avant l&#39;événement. Les participants doivent être informés que l&#39;événement est enregistré quand ils se connectent. |
+| **Publication** | Sur demande : contenu monté et publié sur YouTube. Avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit en informer l&#39;équipe des publications, le chargé de production, contenu numérique, et le chargé de l&#39;engagement numérique. |
+| **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
+| **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
+|
+ |
+ |
 
-## Development
+#
 
-Want to contribute? Great!
+# Événement virtuel avec participation limitée du public
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
+**Exemples**  : séminaire, conférence du commissaire, charrette des étudiants, atelier, lancement
+ de livre
 
-Open your favorite Terminal and run these commands.
+| **Participation du public** | Limitée, par écrit (commentaires et questions) |
+| --- | --- |
+| **Plateforme** | Webinaire Zoom |
+| **Inscription** | Exigée (fonction inscription de Zoom) |
+| **Options de personnalisation** | Limitées |
+| **Contenu vidéo** | Limité |
+| **Soutien technique** | Pas nécessaire |
+| **Diffusion en direct** | Sur demande (personne responsable : coordonnateur technique, médias numériques)Avant l&#39;événement, si ce dernier est destiné à être diffusé en direct, le chef d&#39;équipe doit s&#39;assurer de la collaboration du chargé de production, contenu numérique, et du chargé de l&#39;engagement numérique. Des consentements doivent également être signés avant l&#39;événement. Selon la stratégie de diffusion, les webinaires Zoom peuvent aussi être diffusés en continu sur YouTube ou Facebook, mais pas sur les deux en même temps. |
+| **Gestion du clavardage** | Oui, par l&#39;équipe des programmes publics |
+| **Enregistrement** | Par Zoom (personne responsable : coordonnateur, public) |
+| **Permissions** | Des consentements doivent être signés avant l&#39;événement. Les participants doivent être informés que l&#39;événement est enregistré quand ils se connectent. |
+| **Publication** | Sur demande (avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit en informer l&#39;équipe des publications, le chargé de production, contenu numérique, et le chargé de l&#39;engagement numérique). |
+| **Chef d&#39;équipe** | Coordonnateur de l&#39;événement, coordonnateur, public, ou coordonnateur administratif : coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
+| **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré. Gère le processus de production du contenu de A à Z. |
 
-First Tab:
+# Projection virtuelle avec des intervenants (segments en
+ direct et préenregistrés)
 
-```sh
-node app
-```
+**Exemples**  : docudrame, projection et conversation
 
-Second Tab:
+| **Participation du public** | Limitée, dans le clavardage (commentaires et questions) |
+| --- | --- |
+| **Plateforme** | YouTube et Facebook Live |
+| **Inscription** | Non |
+| **Options de personnalisation** | Oui |
+| **Contenu vidéo** | Illimité |
+| **Soutien technique** | Nécessaire (personne responsable : coordonnateur technique, médias numériques) |
+| **Diffusion en direct** | Oui (personne responsable : coordonnateur technique, médias numériques)Des consentements doivent être signés avant l&#39;événement. L&#39;événement peut être diffusé en continu simultanément sur YouTube et Facebook. |
+| **Gestion du clavardage** | Oui, par l&#39;équipe des programmes publics |
+| **Enregistrement** | Oui (plusieurs sources) (personne responsable : coordonnateur technique, médias numériques) |
+| **Permissions** | Des consentements doivent être signés avant l&#39;événement. Les participants doivent être informés que l&#39;événement est enregistré quand ils se connectent. |
+| **Publication** | Oui.Avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit en informer l&#39;équipe des publications, le chargé de production, contenu numérique, et le chargé de l&#39;engagement numérique. |
+| **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
+| **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : gère le processus de production du contenu de A à Z. |
 
-```sh
-gulp watch
-```
+# Événement hybride avec des intervenants virtuels, et un
+ animateur et un public physiques
 
-(optional) Third:
+Exemple : projection de film dans une salle suivie d&#39;une conversation
 
-```sh
-karma test
-```
+| **Participation du public** | Active, par le biais de l&#39;animateur en personne (mais limitée en cas de public virtuel) |
+| --- | --- |
+| **Plateforme** | Zoom pour les intervenants virtuels |
+| **Inscription** | Non |
+| **Options de personnalisation** | Oui, sur l&#39;écran |
+| **Contenu vidéo** | Projeté dans l&#39;espace physique |
+| **Soutien technique** | Nécessaire (personne responsable : coordonnateur technique, médias numériques) |
+| **Diffusion en direct** | Optionnelle |
+| **Gestion du clavardage** | Oui. L&#39;animateur présent en personne énonce ses questions auprès des participants, ainsi que celles du public physique. |
+| **Enregistrement** | Optionnel |
+| **Permissions** | En cas d&#39;enregistrement ou de diffusion en direct, des consentements doivent également être signés avant l&#39;événement. |
+| **Publication** | Sur demande : contenu monté et publié sur YouTube. Avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit s&#39;assurer de la collaboration de l&#39;équipe des publications, du chargé de production, contenu numérique, et du chargé de l&#39;engagement numérique. |
+| **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
+| **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
-#### Building for source
+# Événement hybride avec quelques intervenants dans un
+ espace physique et un public entièrement virtuel
 
-For production release:
+Exemple : table ronde dans une salle de spectacle sans public
 
-```sh
-gulp build --prod
-```
+| **Participation du public** | Limitée, par écrit (commentaires et questions) |
+| --- | --- |
+| **Plateforme** | Transmission en continu par Wirecast des images caméra sur webinaire Zoom |
+| **Inscription** | Exigée (fonction inscription de Zoom) |
+| **Options de personnalisation** | Limitées |
+| **Contenu vidéo** | Limité |
+| **Soutien technique** | Nécessaire (personne responsable : coordonnateur technique, médias numériques) |
+| **Diffusion en direct** | Oui |
+| **Gestion du clavardage** | Oui, l&#39;animateur présent en personne énonce les questions du clavardage auprès des intervenants. |
+| **Enregistrement** | Optionnel |
+| **Permissions** | Des consentements doivent également être signés avant l&#39;événement. Les participants doivent être informés que l&#39;événement est enregistré quand ils se connectent (voir comment activer le message d&#39;information demandant l&#39;autorisation d&#39;enregistrer dans Zoom). |
+| **Publication** | Sur demande : contenu monté et publié sur YouTube. Avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit en informer l&#39;équipe des publications, le chargé de production, contenu numérique, et le chargé de l&#39;engagement numérique.
+ |
+| **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
+| **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
-Generating pre-built zip archives for distribution:
+# Événement hybride avec des intervenants et un public physiques, enregistré pour un public virtuel
 
-```sh
-gulp build dist --prod
-```
+Exemple : conférence dans une salle de spectacle
 
-## Docker
+| **Participation du public** | Active |
+| --- | --- |
+| **Plateforme** | YouTube, pour le contenu enregistré et monté |
+| **Inscription** | Non pertinent |
+| **Options de personnalisation** | Oui |
+| **Contenu vidéo** | Non |
+| **Soutien technique** | Nécessaire (personne responsable : coordonnateur technique, médias numériques) |
+| **Diffusion en direct** | Non |
+| **Gestion du clavardage** | Non |
+| **Enregistrement** | Oui. Montage de l&#39;enregistrement pour publication. |
+| **Publication** | Contenu monté et publié sur YouTube. Avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit s&#39;assurer de la collaboration de l&#39;équipe des publications, du chargé de production, contenu numérique, et du chargé de l&#39;engagement numérique. |
+| **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
+| **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : gère le processus de production du contenu de A à Z. |
 
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+3 ![](RackMultipart20220425-1-10jsb6_html_ca8a450caba782e4.png)
