@@ -43,11 +43,11 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 |  | _Distribution_ | Utilisé pour distribuer de manière privée les vidéos du CCA et les œuvres de la collection audiovisuelle du CCA, par exemple à des chercheurs et à ce type d&#39;utilisateurs. |
 | **Soundcloud** | _Distribution seulement_ | Utilisé pour distribuer uniquement du contenu sonore. |
 
-#
+
 
 ## **Formats**
 
-#
+
 
 ### Événement virtuel auquel le public participe activement
 
@@ -68,7 +68,7 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
-#
+
 
 ### Événement virtuel avec participation limitée du public
 
