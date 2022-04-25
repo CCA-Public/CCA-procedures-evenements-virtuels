@@ -1,4 +1,4 @@
-Événements virtuels et hybrides du CCA
+# **Événements virtuels et hybrides du CCA**
 
 1. **Introduction**
 2. **Formats d&#39;événements virtuels du CCA,
@@ -13,7 +13,7 @@
 
 #
 
-# **Introduction**
+## **Introduction**
 
 S&#39;il nous est arrivé avant la pandémie de diffuser en continu des événements en direct et d&#39;utiliser des systèmes de vidéoconférence, nos événements, par défaut, se tenaient en personne. La pandémie nous a forcés à repenser cette façon de faire ; l&#39;obligation de tenir des événements virtuels a créé à la fois de nouvelles possibilités et de nouveaux défis.
 
@@ -27,7 +27,7 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 
 20 février 2022
 
-# **Formats d&#39;événements virtuels du CCA, classés par plateformes de
+## **Formats d&#39;événements virtuels du CCA, classés par plateformes de
  diffusion et de distribution**
 
 | Plateforme | Utilisation |
@@ -75,7 +75,7 @@ Utilisé pour distribuer uniquement du contenu sonore.
 
 #
 
-# **Formats**
+## **Formats**
 
 #
 
@@ -103,7 +103,7 @@ Utilisé pour distribuer uniquement du contenu sonore.
 
 #
 
-# Événement virtuel avec participation limitée du public
+## Événement virtuel avec participation limitée du public
 
 **Exemples**  : séminaire, conférence du commissaire, charrette des étudiants, atelier, lancement
  de livre
@@ -123,7 +123,7 @@ Utilisé pour distribuer uniquement du contenu sonore.
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement, coordonnateur, public, ou coordonnateur administratif : coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré. Gère le processus de production du contenu de A à Z. |
 
-# Projection virtuelle avec des intervenants (segments en
+## Projection virtuelle avec des intervenants (segments en
  direct et préenregistrés)
 
 **Exemples**  : docudrame, projection et conversation
@@ -143,7 +143,7 @@ Utilisé pour distribuer uniquement du contenu sonore.
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : gère le processus de production du contenu de A à Z. |
 
-# Événement hybride avec des intervenants virtuels, et un
+## Événement hybride avec des intervenants virtuels, et un
  animateur et un public physiques
 
 Exemple : projection de film dans une salle suivie d&#39;une conversation
@@ -163,7 +163,7 @@ Exemple : projection de film dans une salle suivie d&#39;une conversation
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
-# Événement hybride avec quelques intervenants dans un
+## Événement hybride avec quelques intervenants dans un
  espace physique et un public entièrement virtuel
 
 Exemple : table ronde dans une salle de spectacle sans public
@@ -184,7 +184,7 @@ Exemple : table ronde dans une salle de spectacle sans public
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
-# Événement hybride avec des intervenants et un public physiques, enregistré pour un public virtuel
+## Événement hybride avec des intervenants et un public physiques, enregistré pour un public virtuel
 
 Exemple : conférence dans une salle de spectacle
 
