@@ -1,4 +1,4 @@
-#Lignes directrices et aide-mémoire pour l&#39;utilisation de la plateforme Zoom
+# Lignes directrices et aide-mémoire pour l&#39;utilisation de la plateforme Zoom
 
 - **Généralités**
 - **Ressources techniques**
@@ -28,15 +28,15 @@ Voici également quelques articles que vos collègues ont trouvé particulièrem
 
 1. Activer le consentement à l&#39;enregistrement. En activant cette fonction, lorsqu&#39;un enregistrement est lancé sur Zoom, un message apparaît sur l&#39;écran de chaque participant leur confirmant. Si le participant refuse, il n&#39;aura pas accès à l&#39;événement.
 
-Écran #1
+![Écran #1](https://www.cca.qc.ca/img/z22wY2ynxNX7QjkJCuPKMJCArzs=/1920x0/16321/15250/Screen1.jpg)
 
 1. Activer (ou non) une salle d&#39;attente. Cette fonction permet d&#39;approuver l&#39;arrivée de chaque participant dans une réunion ou un événement. Cette fonction devrait être activée et désactivée en fonction de vos besoins. Dans le cas d&#39;un événement avec plusieurs participants, cette fonction pourrait être un peu trop restrictive. Cependant, si vous êtes en cours d&#39;enregistrement et attendez l&#39;arrivée d&#39;un autre participant, l&#39;activation de cette fonction évitera une interruption soudaine de votre enregistrement. De plus, lorsqu&#39;un participant est dans la salle d&#39;attente, l&#39;hôte est en mesure de communiquer avec cette personne en clavardage.
 
-Écran #2
+![Écran #2](https://www.cca.qc.ca/img/_aZAdo-womaJ4H9QxcXRcf5jNOQ=/1920x0/16322/15251/Screen2.jpg)
 
 1. Activer le code secret de réunion et de webinaire.
 
-Écran #3
+![Écran #3](https://www.cca.qc.ca/img/AAQGyBGn7MisN4CcWzXEgUIbLow=/1920x0/16323/15252/Screen3.jpg)
 
 **À noter** : Les paramètres ci-haut sont les principaux à tenir en compte, mais la section &quot;Paramètres&quot; offre plusieurs options de réglages différents à évaluer selon vos besoins. Nous vous conseillons de réviser ceux-ci en équipe pour établir les standards qui correspondent à vos besoins particuliers.
 
@@ -57,11 +57,11 @@ Options de réponse:
 - Yes (in English)
 - No
 
-Écran #4
+![Écran #4](https://www.cca.qc.ca/img/bWyuUynxk1piZ9tSQfod6OCMeIw=/1920x0/16324/15253/Screen4.jpg)
 
-Écran #5
+![Écran #5](https://www.cca.qc.ca/img/6prwzJ1RwXjQ4JereDDqqQpXoiM=/1920x0/16325/15254/Screen5.jpg)
 
-Écran #6
+![Écran #6](https://www.cca.qc.ca/img/yiF5htRMCEfB_0vLApLf418Dzwc=/1920x0/16326/15255/Screen6.jpg)
 
 Pendant l&#39;événement:
 
@@ -75,9 +75,9 @@ Si l&#39;événement est enregistré aux fins de montage et de publication, vous
 
 Si vous n&#39;êtes pas disponible pour démarrer une réunion, vous pouvez désigner un hôte suppléant (c.-à.-d. un autre compte Zoom qui pourra démarrer la réunion). Quand vous programmez un événement, cliquez sur les Options avancées dans le bas de la fenêtre. Cliquez sur Hôte suppléant et saisissez dans le champ l&#39;adresse courriel de la personne qui démarrera la réunion.
 
-Écran #7
+![Écran #7](https://www.cca.qc.ca/img/Sz5VrZI_LkFF7cobcMdL_riP5mU=/1920x0/16327/15256/Screen7.jpg)
 
-Écran #8
+![Écran #8](https://www.cca.qc.ca/img/nTanxLG0pvWJu2AcuEwUR_RoYx8=/1920x0/16328/15257/Screen8.jpg)
 
 _Affichage Galerie ou Intervenant_
 
@@ -89,7 +89,7 @@ _Partage d&#39;écran_
 
 Une seule personne peut partager son écran à la fois. On peut partager son écran à partir du menu au bas de la fenêtre. Après avoir cliqué sur Écran partagé, une fenêtre s&#39;ouvre et vous propose de partager différentes choses.
 
-Écran #9
+![Écran #9](https://www.cca.qc.ca/img/E27uIjeygn-ywsa_m2Gv7hwcqlU=/1920x0/16329/15258/Screen9.jpg)
 
 Si vous partagez l&#39;Écran 1 (ou, dans le cas où vous avez deux moniteurs, l&#39;Écran 1 ou l&#39;Écran 2), c&#39;est l&#39;ensemble de votre écran qui sera partagé. Si vous souhaitez alterner entre différentes applications ou différentes fenêtres, choisissez cette option. Remarque : les participants verront alors tout votre écran, y compris toute notification qui pourrait apparaître.
 
@@ -125,17 +125,17 @@ Options de réponse:
 - Yes (in English)
 - No
 
-Écran #10
+![Écran #10](https://www.cca.qc.ca/img/HLqLh2uZDTKqkSeSukZN7tG74mw=/1920x0/16330/15259/Screen10.jpg)
 
 _Programmer un webinaire_
 
 Ouvrez Zoom dans votre navigateur et cliquez sur Webinaires dans le menu à gauche. Cliquez sur Programmer un webinaire.
 
-Écran #11
+![Écran #11](https://www.cca.qc.ca/img/X78VmIhQCJ91ZNRdBLZE88qCDgs=/1920x0/16331/15260/Screen11.jpg)
 
 Choisissez ensuite le modèle de webinaire qui vous intéresse.
 
-Écran #12
+![Écran #12](https://www.cca.qc.ca/img/npVhek3IUFF0oAvhD3AkZ5u1tkI=/1920x0/16332/15261/Screen12.jpg)
 
 Si vous choisissez Webinaire (enregistrement par défaut), l&#39;enregistrement de l&#39;événement commencera dès son démarrage. Si vous choisissez Webinaire (pas d&#39;enregistrement), l&#39;événement ne sera enregistré que si vous démarrez l&#39;enregistrement.
 
@@ -143,11 +143,11 @@ Après avoir choisi le modèle, donnez un nom à votre webinaire dans le champ S
 
 Si vous savez que vous ne serez pas disponible pour démarrer le webinaire, désignez un hôte suppléant (c.-à.-d. un autre compte Zoom qui pourra démarrer la réunion) au moment où vous programmez le webinaire. Tapez l&#39;adresse courriel de la personne qui sera disponible pour démarrer le webinaire.
 
-Écran #13
+![Écran #13](https://www.cca.qc.ca/img/BiX5nFx4MEI1n9MyllDDusiU0J8=/1920x0/16333/15262/Screen13.jpg)
 
 Si vous souhaitez ajouter un hôte suppléant après avoir programmé le webinaire, ouvrez l&#39;onglet Webinaires sur la page Zoom de votre navigateur, placez votre curseur sur le titre du webinaire en question, et cliquez sur le bouton Modifier qui apparaît.
 
-Écran #14
+![Écran #14](https://www.cca.qc.ca/img/CDKwD0sNVSAsOAca7VKWd1EQOwg=/1920x0/16334/15263/Screen14.jpg)
 
 Descendez ensuite à la section Hôte suppléant dans le bas de la page. Vous verrez la même chose que dans l&#39;image plus haut.
 
@@ -157,21 +157,21 @@ Une fois que le webinaire est programmé, vous pouvez **ajouter des intervenants
 
 Pour ajouter des intervenants, descendez jusqu&#39;à la deuxième moitié de la page.
 
-Écran #15
+![Écran #15](https://www.cca.qc.ca/img/NHo7bo3H9NYT0CJI1FRWEXE8EfY=/1920x0/16335/15264/Screen15.jpg)
 
 Juste sous l&#39;onglet Invitations (qui est l&#39;onglet ouvert par défaut), vous verrez l&#39;option Inviter des intervenants. Cliquez sur le bouton Modifier tout à droite. Une fenêtre s&#39;ouvrira, qui permet d&#39;ajouter les noms et les adresses courriel des intervenants.
 
-Écran #16
+![Écran #16](https://www.cca.qc.ca/img/ozIu9-bc6pv5ttm5amsP80UDjAQ=/1920x0/16336/15265/Screen16.jpg)
 
 Une fois que vous avez ajouté tous les intervenants, vous pouvez décider de leur envoyer immédiatement ou plus tard une invitation avec leur lien Zoom individuel. Les liens Zoom sont différents pour chaque intervenant. Ils ne peuvent donc pas être échangés entre intervenants. Si vous voulez envoyer l&#39;invitation immédiatement, assurez-vous de cocher la case « Envoyer immédiatement une invitation à tous les intervenants nouvellement ajoutés » au bas de la fenêtre. Si vous ne souhaitez pas envoyer l&#39;invitation tout de suite, assurez-vous que la case est décochée. Cliquez ensuite sur Enregistrer.
 
 Les intervenants ajoutés s&#39;affichent dans la section Inviter des intervenants.
 
-Écran #17
+![Écran #17](https://www.cca.qc.ca/img/JcgOEq4TreLQ0Xq79k-fY8iYZbI=/1920x0/16337/15266/Screen17.jpg)
 
 Si vous souhaitez envoyer (ou renvoyer) aux intervenants leurs liens Zoom individuels pour se joindre au webinaire, cliquez sur le bouton Modifier dans la section Inviter des intervenants. Cliquez ensuite sur Renvoyer.
 
-Écran #18
+![Écran #18](https://www.cca.qc.ca/img/T4AfcgF04dgrXzJaD7TtEhByIxA=/1920x0/16339/15268/Screen18.jpg)
 
 Les liens Zoom individuels devraient être envoyés aux intervenants une semaine avant l&#39;événement, puis renvoyés 24 heures avant l&#39;événement. Une fois que les liens ont été envoyés, écrivez un courriel de suivi à tous les intervenants pour confirmer qu&#39;ils ont bien reçu leur lien. Demandez-leur de vérifier leur boîte de pourriel ou de courrier indésirable, ainsi que tous les onglets de leur boîte de réception principale.
 
@@ -189,49 +189,49 @@ Les webinaires Zoom sont programmés de manière à ce que seuls les intervenant
 
 Si vous voulez organiser un Q. et R. lors d&#39;un webinaire, encouragez les participants à taper leurs questions. Pour les événements avec un public à la fois physique et virtuel, on devrait utiliser uniquement cette méthode. L&#39;animateur peut alors lire les questions tout haut afin que le conférencier ou l&#39;intervenant y réponde.
 
-Écran #19
+![Écran #19](https://www.cca.qc.ca/img/omW7g_ZlfV4NEs-mkjRdeYgGoj8=/1920x0/16340/15269/Screen19.jpg)
 
 En cas d&#39;événement entièrement virtuel, vous devriez aussi inviter les membres du public à poser leurs questions soit dans le clavardage soit dans la boîte de Q. et R., surtout s&#39;ils ont des questions pendant la conférence ou pendant la conversation entre intervenants. En outre, vous pouvez aussi inviter les personnes qui ont des questions à lever la main.
 
-Écran #20
+![Écran #20](https://www.cca.qc.ca/img/DxYyWJgikD0cK58q2dA2fWISaoA=/1920x0/16356/15285/Screen20.jpg)
 
 L&#39;hôte peut alors voir quelles personnes ont levé la main en cliquant sur le bouton Participants. Les participants avec la main levée apparaissent en haut de la liste des participants.
 
-Écran #21
+![Écran #21](https://www.cca.qc.ca/img/BRITGvdXBOAdYb4tYEyjUujRYpI=/1920x0/16341/15270/Screen21.jpg)
 
 ![Shape1](RackMultipart20220425-1-m1uu2w_html_c97cecb148f948f5.gif)
 
 L&#39;hôte peut alors soit autoriser le participant à parler, soit signaler à l&#39;intervenant que la personne désire parler. Pour autoriser un participant à prendre la parole, déplacez votre curseur sur son nom et cliquez sur le bouton bleu Autoriser à parler.
 
-Écran #22
+![Écran #22](https://www.cca.qc.ca/img/KaYM8DGJwbB7Mn7QDxkgKsBhxcs=/1920x0/16342/15271/Screen22.jpg)
 
 Quand vous autorisez un participant à parler, vous lui permettez d&#39;activer son micro, mais pas sa caméra. La personne apparaîtra sous forme d&#39;un carré noir avec son nom indiqué ou, si une photo est associée à son compte, cette photo s&#39;affichera dans le carré. Elle ne pourra cependant pas allumer sa caméra.
 
-Écran #23
+![Écran #23](https://www.cca.qc.ca/img/paQ0lD3_NAkAeouWEIOP5UKyxJ0=/1920x0/16343/15272/Screen23.jpg)
 
 Une fois que la personne a été autorisée à prendre la parole, son carré reste visible jusqu&#39;à la fin du Q. et R., à moins qu&#39;il ne soit désactivé. Quand on a répondu à la question du participant qui a pris la parole, l&#39;hôte devrait révoquer sa capacité à parler pour que le carré disparaisse. Déplacez votre curseur sur le nom du participant, cliquez sur le bouton bleu Plus, et sélectionnez Désactiver la parole.
 
-Écran #24
+![Écran #24](https://www.cca.qc.ca/img/VD9yOu5D7JFH36EPr5FNjpF9tBc=/1920x0/16344/15273/Screen24.jpg)
 
 Pour faire passer un participant au rôle d&#39;intervenant, déplacez votre curseur sur son nom dans l&#39;onglet Participants. Cliquez sur le bouton bleu Plus, puis sélectionnez Promouvoir au rôle d&#39;intervenant.
 
-Écran #25
+![Écran #25](https://www.cca.qc.ca/img/NwX2jOqsb_8ozXoNItjPgoftGVQ=/1920x0/16345/15274/Screen25.jpg)
 
-Écran #26
+![Écran #26](https://www.cca.qc.ca/img/HhVOH_EsPMssgFl6z5-jUBPbRTs=/1920x0/16346/15275/Screen26.jpg)
 
 Cela donne au participant l&#39;option de se joindre au webinaire en tant qu&#39;intervenant (ce qui lui permet d&#39;allumer son micro et sa caméra). Le participant verra cette fenêtre :
 
 Si la personne accepte de devenir intervenant, elle apparaîtra à l&#39;écran comme les autres intervenants. Une fois qu&#39;on a répondu à sa question, vous pouvez changer à nouveau son rôle à celui de participant en cliquant sur l&#39;onglet Intervenants.
 
-Écran #27
+![Écran #27](https://www.cca.qc.ca/img/sWigxuV0-DfTIWFPdd4ZWnwvqtM=/1920x0/16347/15276/Screen27.jpg)
 
 Déplacez votre curseur sur la personne concernée et cliquez sur le bouton bleu Plus.
 
-Écran #28
+![Écran #28](https://www.cca.qc.ca/img/N3o2LX-seqh0lHBOlaPxxoozjwc=/1920x0/16348/15277/Screen28.jpg)
 
 Choisissez alors Changer le rôle en participant. La personne redeviendra alors immédiatement participant.
 
-Écran #29
+![Écran #29](https://www.cca.qc.ca/img/x1HP9dBtxxPzem13ObWNzuhiUZI=/1920x0/16349/15278/Screen29.jpg)
 
 Après l&#39;événement:
 
