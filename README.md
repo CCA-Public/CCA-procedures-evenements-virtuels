@@ -1,24 +1,15 @@
 Événements virtuels et hybrides du CCA
 
-[**Introduction**]
-
-[**Formats d&#39;événements virtuels du CCA,
- classés par plateformes de diffusion et de distribution**]
-
-[**Formats**]
-
-[Événement virtuel auquel le public participe activement]
-[Événement virtuel avec participation limitée du public]
-
-[Projection virtuelle avec des intervenants (segments en direct et préenregistrés]
-
-[Événement hybride avec des intervenants virtuels, et un animateur et un public physiques]
-
-[Événement hybride avec quelques intervenants
- dans un espace physique et un public entièrement virtuel]
-
-[Événement hybride avec des intervenants et un public physiques,
- enregistré pour un public virtuel]
+1. **Introduction**
+2. **Formats d&#39;événements virtuels du CCA,
+ classés par plateformes de diffusion et de distribution**
+3. **Formats**
+4. **Événement virtuel auquel le public participe activement**
+5. **Événement virtuel avec participation limitée du public**
+6. **Projection virtuelle avec des intervenants (segments en direct et préenregistrés)**
+7. **Événement hybride avec des intervenants virtuels, et un animateur et un public physiques**
+8. **Événement hybride avec quelques intervenants dans un espace physique et un public entièrement virtuel**
+9. **Événement hybride avec des intervenants et un public physiques, enregistré pour un public virtuel**
 
 #
 
