@@ -28,48 +28,20 @@ Avec le retour graduel des activités en personne, nous arrivons à un nouveau t
 
 ## **Formats d&#39;événements virtuels du CCA, classés par plateformes de diffusion et de distribution**
 
-| Plateforme | Utilisation |
-| --- | --- |
+| Plateforme | Utilisation | Description |
+| --- | --- | --- |
 | **Site Web du CCA** | _Distribution_ | Les événements sont publicisés sur le site Web avec, au besoin, un lien pour s&#39;inscrire. On y trouve aussi les liens des événements passés enregistrés. |
-|
-**YouTube**
- | _Diffusion_ |
-Projections virtuelles avec des intervenants (avec des segments en direct et préenregistrés). Clavardage.
- |
-|
- | _Distribution_ |
-Principale chaîne de distribution vidéo. Le public a accès aux fichiers vidéo soit directement sur YouTube soit sur le site du CCA, où les vidéos sont intégrées.
- |
-| **Webinaires Zoom** | _Diffusion seulement_ |
-Événements virtuels avec participation limitée du public.
- |
-| **Réunions Zoom** | _Diffusion seulement_ |
-Événements virtuels auxquels le public participe activement.
- |
-| **Facebook Live** | _Diffusion_ |
-Projections virtuelles avec des intervenants (avec des segments en direct et préenregistrés).
- |
-|
- | _Distribution_ |
-On utilise Facebook pour promouvoir des événements virtuels. Les vidéos restent sur la plateforme, où elles peuvent être visionnées ultérieurement.
- |
-| **Instagram** | _Diffusion_ |
-Ne peut pas être utilisé pour la transmission vidéo en direct.
- |
-|
- | _Distribution_ |
-La distribution vidéo est limitée aux courts extraits.
- |
-| **Vimeo** | _Diffusion_ |
-N&#39;est pas une chaîne de diffusion en direct.
- |
-|
- | _Distribution_ |
-Utilisé pour distribuer de manière privée les vidéos du CCA et les œuvres de la collection audiovisuelle du CCA, par exemple à des chercheurs et à ce type d&#39;utilisateurs.
- |
-| **Soundcloud** | _Distribution seulement_ |
-Utilisé pour distribuer uniquement du contenu sonore.
- |
+| **YouTube** | _Diffusion_ | Projections virtuelles avec des intervenants (avec des segments en direct et préenregistrés). Clavardage. |
+| | _Distribution_ | Principale chaîne de distribution vidéo. Le public a accès aux fichiers vidéo soit directement sur YouTube soit sur le site du CCA, où les vidéos sont intégrées. |
+| **Webinaires Zoom** | _Diffusion seulement_ | Événements virtuels avec participation limitée du public. |
+| **Réunions Zoom** | _Diffusion seulement_ | Événements virtuels auxquels le public participe activement. |
+| **Facebook Live** | _Diffusion_ | Projections virtuelles avec des intervenants (avec des segments en direct et préenregistrés). |
+|  | _Distribution_ | On utilise Facebook pour promouvoir des événements virtuels. Les vidéos restent sur la plateforme, où elles peuvent être visionnées ultérieurement. |
+| **Instagram** | _Diffusion_ | Ne peut pas être utilisé pour la transmission vidéo en direct. |
+|  | _Distribution_ | La distribution vidéo est limitée aux courts extraits. |
+| **Vimeo** | _Diffusion_ | N&#39;est pas une chaîne de diffusion en direct. |
+|  | _Distribution_ | Utilisé pour distribuer de manière privée les vidéos du CCA et les œuvres de la collection audiovisuelle du CCA, par exemple à des chercheurs et à ce type d&#39;utilisateurs. |
+| **Soundcloud** | _Distribution seulement_ | Utilisé pour distribuer uniquement du contenu sonore. |
 
 #
 
@@ -95,9 +67,6 @@ Utilisé pour distribuer uniquement du contenu sonore.
 | **Publication** | Sur demande : contenu monté et publié sur YouTube. Avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit en informer l&#39;équipe des publications, le chargé de production, contenu numérique, et le chargé de l&#39;engagement numérique. |
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
-|
- |
- |
 
 #
 
@@ -159,8 +128,7 @@ Exemple : projection de film dans une salle suivie d&#39;une conversation
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
-## Événement hybride avec quelques intervenants dans un
- espace physique et un public entièrement virtuel
+## Événement hybride avec quelques intervenants dans un espace physique et un public entièrement virtuel
 
 Exemple : table ronde dans une salle de spectacle sans public
 
@@ -175,8 +143,7 @@ Exemple : table ronde dans une salle de spectacle sans public
 | **Gestion du clavardage** | Oui, l&#39;animateur présent en personne énonce les questions du clavardage auprès des intervenants. |
 | **Enregistrement** | Optionnel |
 | **Permissions** | Des consentements doivent également être signés avant l&#39;événement. Les participants doivent être informés que l&#39;événement est enregistré quand ils se connectent (voir comment activer le message d&#39;information demandant l&#39;autorisation d&#39;enregistrer dans Zoom). |
-| **Publication** | Sur demande : contenu monté et publié sur YouTube. Avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit en informer l&#39;équipe des publications, le chargé de production, contenu numérique, et le chargé de l&#39;engagement numérique.
- |
+| **Publication** | Sur demande : contenu monté et publié sur YouTube. Avant l&#39;événement, si l&#39;enregistrement est destiné à être publié, le chef d&#39;équipe doit en informer l&#39;équipe des publications, le chargé de production, contenu numérique, et le chargé de l&#39;engagement numérique. |
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : responsable uniquement si l&#39;événement est enregistré et monté. Gère le processus de production du contenu de A à Z. |
 
@@ -198,4 +165,3 @@ Exemple : conférence dans une salle de spectacle
 | **Chef d&#39;équipe** | Coordonnateur de l&#39;événement - Coordonnateur, public. Coordonne l&#39;événement de A à Z et fait la liaison avec les autres équipes. |
 | **Autres membres d&#39;équipe responsables** | Chargé de production, contenu numérique : gère le processus de production du contenu de A à Z. |
 
-3 ![](RackMultipart20220425-1-10jsb6_html_ca8a450caba782e4.png)
